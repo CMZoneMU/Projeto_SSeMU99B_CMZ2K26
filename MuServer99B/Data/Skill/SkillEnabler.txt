@@ -1,0 +1,14 @@
+//############################################################
+//# -- SSEMU MUONLINE SERVER EMULATOR
+//# -- www.ssemu.com.ar
+//# -- www.facebook.com/ssemuemulator
+//# -- © 2022 SetecSoft Development
+//# ----------------------------------------------------------
+//# -- File is a part of SSeMU MuOnline Server files.
+//############################################################
+
+// ----------------------------------------
+//              [*/N]       [0-1]    [0-1]
+// SkillIndex   MapNumber   UsePvM   UsePvP
+// ----------------------------------------
+end

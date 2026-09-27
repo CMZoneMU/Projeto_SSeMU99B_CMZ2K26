@@ -1,0 +1,8 @@
+18:42:25 [General][admin][Dizzy] - (Message: /attack)
+18:42:29 [General][admin][Dizzy] - (Message: /offattack)
+18:42:33 [General][admin][Dizzy] - (Message: /pickup)
+18:42:36 [General][admin][Dizzy] - (Message: /pick zen)
+18:43:21 [General][admin][Dizzy] - (Message: /attack)
+18:43:26 [General][admin][Dizzy] - (Message: /attack 1)
+18:49:09 [General][admin][Dizzy] - (Message: /attack)
+18:49:35 [General][admin][Dizzy] - (Message: /attack)

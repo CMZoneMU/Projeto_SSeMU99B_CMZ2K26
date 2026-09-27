@@ -1,0 +1,29 @@
+﻿  stdafx.cpp
+  Sha256.cpp
+  AllowableIpList.cpp
+  BadSyntax.cpp
+  CharacterManager.cpp
+  CommandManager.cpp
+  CriticalSection.cpp
+  CustomPick.cpp
+  DataServer.cpp
+  DataServerProtocol.cpp
+  Friend.cpp
+  GoldenArcher.cpp
+  Guild.cpp
+  GuildManager.cpp
+  Log.cpp
+  MemScript.cpp
+  MiniDump.cpp
+  QueryManager.cpp
+  Quest.cpp
+  Queue.cpp
+  ServerDisplayer.cpp
+  Compiling...
+  ServerManager.cpp
+  SocketManager.cpp
+  Util.cpp
+  Warehouse.cpp
+  Generating code
+  Finished generating code
+  DataServer.vcxproj -> E:\Нужное\MuOnline\Мой сервер\0.99B CHS SSeMU_2.1.7\source\Source\Emulator 0.99 (2.1.7)\DataServer\..\..\..\Program\MuServer99B\DataServer\DataServer.exe

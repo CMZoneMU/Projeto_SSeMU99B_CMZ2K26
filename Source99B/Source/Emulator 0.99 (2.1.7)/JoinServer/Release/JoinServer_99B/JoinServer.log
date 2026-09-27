@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  Sha256.cpp
+  AccountManager.cpp
+  AllowableIpList.cpp
+  CriticalSection.cpp
+  JoinServer.cpp
+  JoinServerProtocol.cpp
+  Log.cpp
+  MD5.cpp
+  MemScript.cpp
+  MiniDump.cpp
+  QueryManager.cpp
+  Queue.cpp
+  ServerDisplayer.cpp
+  ServerManager.cpp
+  SocketManager.cpp
+  SocketManagerUdp.cpp
+  Util.cpp
+  Generating code
+  Finished generating code
+  JoinServer.vcxproj -> E:\Нужное\MuOnline\Мой сервер\0.99B CHS SSeMU_2.1.7\source\Source\Emulator 0.99 (2.1.7)\JoinServer\..\..\..\Program\MuServer99B\JoinServer\JoinServer.exe

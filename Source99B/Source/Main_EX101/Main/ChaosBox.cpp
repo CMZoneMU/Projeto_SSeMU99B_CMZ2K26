@@ -1,0 +1,118 @@
+#include "stdafx.h"
+#include "ChaosBox.h"
+#include "Offset.h"
+#include "Protocol.h"
+#include "Util.h"
+
+DWORD MixRate = 0;
+DWORD MixMoney = 0;
+DWORD MixTax = 0;
+
+void InitChaosBox() // OK
+{
+	SetCompleteHook(0xE8,0x00448575,&PrintPlayerChaosRate);
+
+	SetCompleteHook(0xE8,0x005ED475,&PrintPlayerChaosRate);
+
+	SetCompleteHook(0xE8,0x004485DC,&PrintPlayerChaosMoney);
+
+	SetCompleteHook(0xE8,0x005ED4D9,&PrintPlayerChaosMoney);
+
+	SetCompleteHook(0xE8,0x005ED4FA,&PrintPlayerChaosMoney);
+}
+
+void ChaosBoxMixSend() // OK
+{
+	DWORD MixType = ((pPetMixIndex == 1) ? CHAOS_MIX_PET1 : ((pPetMixIndex == 2) ? CHAOS_MIX_PET2 : pChaosMixIndex));
+
+	if(MixType != 0)
+	{
+		PMSG_CHAOS_MIX_RATE_SEND pMsg;
+
+		pMsg.header.set(0x88,sizeof(pMsg));
+
+		pMsg.type = MixType;
+
+		DataSend((BYTE*)&pMsg,pMsg.header.size);
+	}
+}
+
+bool ChaosBoxMixCheck() // OK
+{
+	if(pPetMixIndex != 0)
+	{
+		return 1;
+	}
+
+	switch(pChaosMixIndex)
+	{
+		case CHAOS_MIX_CHAOS_ITEM:
+		case CHAOS_MIX_DEVIL_SQUARE:
+		case CHAOS_MIX_PLUS_ITEM_LEVEL1:
+		case CHAOS_MIX_PLUS_ITEM_LEVEL2:
+		case CHAOS_MIX_DINORANT:
+		case CHAOS_MIX_FRUIT:
+		case CHAOS_MIX_WING1:
+		case CHAOS_MIX_BLOOD_CASTLE:
+		case CHAOS_MIX_WING2:
+		case CHAOS_MIX_PLUS_ITEM_LEVEL3:
+		case CHAOS_MIX_PLUS_ITEM_LEVEL4:
+		case CHAOS_MIX_WING3:
+			return 1;
+	}
+
+	return 0;
+}
+
+void ChaosBoxConvertMoney(int money,char* target) // OK
+{
+	if(money >= 1000000000)
+	{
+		wsprintf(target,"%d,%03d,%03d,%03d",money/1000000000,money%1000000000/1000000,money%1000000/1000,money%1000);
+	}
+	else if(money >= 1000000)
+	{
+		wsprintf(target,"%d,%03d,%03d",money%1000000000/1000000,money%1000000/1000,money%1000);
+	}
+	else if(money > 1000)
+	{
+		wsprintf(target,"%d,%03d",money%1000000/1000,money%1000);
+	}
+	else
+	{
+		wsprintf(target,"%d",money%1000);
+	}
+}
+
+void PrintPlayerChaosRate(char* a,char* b,char* c,int d) // OK
+{
+	if(ChaosBoxMixCheck() != 0)
+	{
+		ChaosBoxMixSend();
+
+		d = MixRate;
+	}
+
+	wsprintf(a,b,c,d);
+}
+
+void PrintPlayerChaosMoney(char* a,char* b,char* c,char* d) // OK
+{
+	if(ChaosBoxMixCheck() != 0)
+	{
+		ChaosBoxConvertMoney(MixMoney,c);
+
+		ChaosBoxConvertMoney(MixMoney+MixTax,d);
+	}
+
+	wsprintf(a,b,c,d);
+}
+
+void GCChaosMixRateRecv(PMSG_CHAOS_MIX_RATE_RECV* lpMsg) // OK
+{
+	MixRate = lpMsg->rate;
+
+	MixMoney = lpMsg->money;
+
+	MixTax = lpMsg->tax;
+}

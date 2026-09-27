@@ -1,0 +1,19 @@
+//############################################################
+//# -- SSEMU MUONLINE SERVER EMULATOR
+//# -- www.ssemu.com.ar
+//# -- www.facebook.com/ssemuemulator
+//# -- © 2022 SetecSoft Development
+//# ----------------------------------------------------------
+//# -- File is a part of SSeMU MuOnline Server files.
+//############################################################
+
+// --------------------------
+// [0~5]     [0-1]
+// KALevel   CreateNextPortal
+// --------------------------
+   0         1
+   1         1
+   2         1
+   3         1
+   4         1
+end

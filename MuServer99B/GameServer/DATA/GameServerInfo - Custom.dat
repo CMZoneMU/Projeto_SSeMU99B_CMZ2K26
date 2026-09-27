@@ -1,0 +1,49 @@
+[GameServerInfo]
+;==================================================
+; Custom Arena Settings
+;==================================================
+CustomArenaSwitch = 0
+CustomArenaMapNumber = 40
+CustomArenaVictimScoreDecrease = 0
+CustomArenaKillerScoreIncrease = 1
+
+;==================================================
+; Custom Attack Settings
+;==================================================
+CustomAttackSwitch = 1
+CustomAttackMapZone = -1
+CustomAttackBuffEnable_AL0 = 1
+CustomAttackBuffEnable_AL1 = 1
+CustomAttackBuffEnable_AL2 = 1
+CustomAttackBuffEnable_AL3 = 1
+CustomAttackMaxTimeLimit_AL0 = 0
+CustomAttackMaxTimeLimit_AL1 = 0
+CustomAttackMaxTimeLimit_AL2 = 0
+CustomAttackMaxTimeLimit_AL3 = 0
+
+;==================================================
+; Custom Attack Offline Settings
+;==================================================
+CustomAttackOfflineSwitch = 0
+CustomAttackOfflineBuffEnable_AL0 = 0
+CustomAttackOfflineBuffEnable_AL1 = 0
+CustomAttackOfflineBuffEnable_AL2 = 0
+CustomAttackOfflineBuffEnable_AL3 = 0
+CustomAttackOfflineKeepEnable_AL0 = 0
+CustomAttackOfflineKeepEnable_AL1 = 0
+CustomAttackOfflineKeepEnable_AL2 = 0
+CustomAttackOfflineKeepEnable_AL3 = 0
+CustomAttackOfflineMaxTimeLimit_AL0 = 0
+CustomAttackOfflineMaxTimeLimit_AL1 = 0
+CustomAttackOfflineMaxTimeLimit_AL2 = 0
+CustomAttackOfflineMaxTimeLimit_AL3 = 0
+
+;==================================================
+; Custom Pick Settings
+;==================================================
+CustomPickSwitch = 0
+CustomPickMapZone = -1
+CustomPickMaxTime_AL0 = 0
+CustomPickMaxTime_AL1 = 0
+CustomPickMaxTime_AL2 = 0
+CustomPickMaxTime_AL3 = 0

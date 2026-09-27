@@ -1,0 +1,88 @@
+//############################################################
+//# -- SSEMU MUONLINE SERVER EMULATOR
+//# -- www.ssemu.com.ar
+//# -- www.facebook.com/ssemuemulator
+//# -- © 2022 SetecSoft Development
+//# ----------------------------------------------------------
+//# -- File is a part of SSeMU MuOnline Server files.
+//############################################################
+
+0
+// -------------------------------------------------
+// Class   MinReset   MaxReset   SpeedRate   Comment
+// -------------------------------------------------
+   0       *          *          100         //Dark Wizard
+   1       *          *          100         //Dark Knight
+   2       *          *          100         //Fairy Elf
+   3       *          *          100         //Magic Gladiator
+   4       *          *          100         //Dark Lord
+end
+
+1
+// ---------------------------------------------------------------
+// Class   Skill   Group   Value   BaseSpeed   MainSpeed   Comment
+// ---------------------------------------------------------------
+   0       1       1       0       1.200       0.006       //Poison
+   0       2       1       0       1.200       0.006       //Meteorite
+   0       3       1       0       1.200       0.006       //Lightning
+   0       4       1       0       1.200       0.006       //Fire Ball
+   0       5       2       1       1.200       0.006       //Flame
+   0       7       1       0       1.200       0.006       //Ice
+   0       8       2       0       1.200       0.006       //Twister
+   0       9       2       1       1.200       0.006       //Evil Spirit
+   0       10      2       1       1.200       0.006       //Hell Fire
+   0       11      1       0       1.200       0.006       //Power Wave
+   0       12      2       0       1.200       0.006       //Aqua Beam
+   0       13      2       0       1.200       0.006       //Blast
+   0       14      2       1       1.200       0.006       //Inferno
+   0       16      0       1       1.200       0.006       //Mana Shield
+   0       17      1       0       1.200       0.006       //Energy Ball
+   0       38      3       0       1.200       0.006       //Decay
+   0       39      3       0       1.200       0.006       //Ice Storm
+   1       19      1       0       1.200       0.006       //Falling Slash
+   1       20      1       0       1.200       0.006       //Lunge
+   1       21      1       0       1.200       0.006       //Uppercut
+   1       22      1       0       1.200       0.006       //Cyclone
+   1       23      1       0       1.200       0.006       //Slash
+   1       41      3       1       1.200       0.006       //Twisting Slash
+   1       42      3       1       1.200       0.006       //Rageful Blow
+   1       43      1       0       1.200       0.006       //Death Stab
+   1       48      0       2       1.200       0.006       //Greater Life 
+   2       24      2       1       1.200       0.006       //Triple Shot
+   2       26      0       1       1.200       0.006       //Heal
+   2       27      0       1       1.200       0.006       //Greater Defense
+   2       28      0       1       1.200       0.006       //Greater Damage
+   2       51      1       0       1.200       0.006       //Ice Arrow
+   2       52      2       0       1.200       0.006       //Penetration
+   3       1       1       0       1.200       0.006       //Poison
+   3       2       1       0       1.200       0.006       //Meteorite
+   3       3       1       0       1.200       0.006       //Lightning
+   3       4       1       0       1.200       0.006       //Fire Ball
+   3       5       2       1       1.200       0.006       //Flame
+   3       7       1       0       1.200       0.006       //Ice
+   3       8       2       0       1.200       0.006       //Twister
+   3       9       2       1       1.200       0.006       //Evil Spirit
+   3       10      2       1       1.200       0.006       //Hell Fire
+   3       11      1       0       1.200       0.006       //Power Wave
+   3       12      2       0       1.200       0.006       //Aqua Beam
+   3       13      2       0       1.200       0.006       //Blast
+   3       14      2       1       1.200       0.006       //Inferno
+   3       19      1       0       1.200       0.006       //Falling Slash
+   3       20      1       0       1.200       0.006       //Lunge
+   3       21      1       0       1.200       0.006       //Uppercut
+   3       22      1       0       1.200       0.006       //Cyclone
+   3       23      1       0       1.200       0.006       //Slash
+   3       41      3       1       1.200       0.006       //Twisting Slash
+   3       55      2       0       1.200       0.006       //Fire Slash
+   3       56      3       1       1.200       0.006       //Power Slash
+   4       19      1       0       1.200       0.006       //Falling Slash
+   4       20      1       0       1.200       0.006       //Lunge
+   4       21      1       0       1.200       0.006       //Uppercut
+   4       22      1       0       1.200       0.006       //Cyclone
+   4       60      3       0       1.200       0.006       //Force
+   4       61      1       0       1.200       0.006       //Fire Burst
+   4       62      3       1       1.200       0.006       //Earthquake
+   4       64      0       2       1.200       0.006       //Greater Critical Damage
+   4       65      3       1       1.200       0.006       //Electric Spark
+   4       66      3       0       1.200       0.006       //Force Wave
+end

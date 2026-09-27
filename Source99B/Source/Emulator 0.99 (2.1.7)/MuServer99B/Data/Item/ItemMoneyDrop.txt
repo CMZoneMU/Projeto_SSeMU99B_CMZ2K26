@@ -1,0 +1,15 @@
+//############################################################
+//# -- SSEMU MUONLINE SERVER EMULATOR
+//# -- www.ssemu.com.ar
+//# -- www.facebook.com/ssemuemulator
+//# -- © 2022 SetecSoft Development
+//# ----------------------------------------------------------
+//# -- File is a part of SSeMU MuOnline Server files.
+//############################################################
+
+// -------------------------------------------------------------------------------------------------------------------
+// [*/N]       [*/N]          [*/0~150]         [*/0~150]         [*/0~3]        [*/N]         [*/0~1000000]
+// MapNumber   MonsterIndex   MonsterMinLevel   MonsterMaxLevel   AccountLevel   MoneyAmount   MoneyDropRate   Comment
+// -------------------------------------------------------------------------------------------------------------------
+   *           *              *                 *                 *              *             1000           // Money Drop Zen (Global)
+end

@@ -1,0 +1,14 @@
+//############################################################
+//# -- SSEMU MUONLINE SERVER EMULATOR
+//# -- www.ssemu.com.ar
+//# -- www.facebook.com/ssemuemulator
+//# -- © 2022 SetecSoft Development
+//# ----------------------------------------------------------
+//# -- File is a part of SSeMU MuOnline Server files.
+//############################################################
+
+// --------------------------------------------------------------------------------------------
+// [*/N]      [*/N]      [*/N]      [*/N]      [*/N]            [*/N]            [0~10000]
+// MinLevel   MaxLevel   MinReset   MaxReset   MinMasterReset   MaxMasterReset   ExperienceRate
+// --------------------------------------------------------------------------------------------
+end

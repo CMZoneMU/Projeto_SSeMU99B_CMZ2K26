@@ -1,0 +1,21 @@
+11:04:34 [SocketTCP] Server started at port [44405]
+11:04:34 [SocketUDP] Server started at port [55557]
+11:04:55 [SocketUDP] JoinServer connected
+11:05:04 [SocketUDP] GameServer connected [GameServer_0] [192.168.31.61:55900][0]
+11:09:29 [SocketUDP] GameServer disconnected [GameServer_0] [192.168.31.61:55900][0]
+11:10:14 [SocketTCP] Server started at port [44405]
+11:10:14 [SocketUDP] Server started at port [55557]
+11:10:23 [SocketUDP] JoinServer connected
+11:10:28 [SocketUDP] GameServer connected [GameServer_0] [192.168.31.61:55900][0]
+11:27:30 [SocketTCP] Server started at port [44405]
+11:27:30 [SocketUDP] Server started at port [55557]
+11:27:43 [SocketUDP] JoinServer connected
+11:27:48 [SocketUDP] GameServer connected [GameServer_0] [192.168.31.61:55900][0]
+18:21:16 [SocketTCP] Server started at port [44405]
+18:21:16 [SocketUDP] Server started at port [55557]
+18:21:29 [SocketUDP] JoinServer connected
+18:21:34 [SocketUDP] GameServer connected [GameServer_0] [192.168.31.61:55900][0]
+18:35:51 [SocketUDP] GameServer disconnected [GameServer_0] [192.168.31.61:55900][0]
+18:35:54 [SocketUDP] GameServer connected [GameServer_0] [192.168.31.61:55900][0]
+18:51:57 [SocketUDP] GameServer disconnected [GameServer_0] [192.168.31.61:55900][0]
+18:52:02 [SocketUDP] JoinServer disconnected

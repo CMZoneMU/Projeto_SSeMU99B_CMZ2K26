@@ -1,0 +1,2 @@
+11:06:24 [DataRecv] MainBuffer Error (Index: 9000,IpAddress: 192.168.31.61 HardwareId: )
+18:21:53 [DataRecv] MainBuffer Error (Index: 9000,IpAddress: 192.168.31.61 HardwareId: )

@@ -1,0 +1,40 @@
+﻿  stdafx.cpp
+  Camera.cpp
+  CCRC32.Cpp
+  ChaosBox.cpp
+  Common.cpp
+  CriticalSection.cpp
+  CustomEffect.cpp
+  CustomItem.cpp
+  CustomMap.cpp
+  CustomFog.cpp
+  CustomMonster.cpp
+  CustomMonsterSkin.cpp
+  CustomTooltip.cpp
+  EventEntryLevel.cpp
+  Fog.cpp
+  Font.cpp
+  HackCheck.cpp
+  HealthBar.cpp
+  Item.cpp
+  ItemStack.cpp
+  ItemValue.cpp
+  Compiling...
+  Language.cpp
+  Main.cpp
+  Map.cpp
+  Monster.cpp
+  PacketManager.cpp
+  PrintPlayer.cpp
+  Protect.cpp
+  Protocol.cpp
+  Reconnect.cpp
+  Resolution.cpp
+  ServerList.cpp
+  Shop.cpp
+  TrayMode.cpp
+  Util.cpp
+     Creating library ..\..\..\Program\MuServer99B\Tools\GetMainInfo\Path\Main.lib and object ..\..\..\Program\MuServer99B\Tools\GetMainInfo\Path\Main.exp
+  Generating code
+  Finished generating code
+  Main.vcxproj -> E:\Нужное\MuOnline\Мой сервер\0.99B CHS SSeMU_2.1.7\source\Source\Emulator 0.99 (2.1.7)\Main\..\..\..\Program\MuServer99B\Tools\GetMainInfo\Path\Main.dll

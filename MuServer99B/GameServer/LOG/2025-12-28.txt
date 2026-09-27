@@ -1,0 +1,240 @@
+11:05:02 [SocketManager] Server started at port [55900]
+11:05:03 [Blood Castle] (1) Sync Start Time. [54] min remain
+11:05:03 [Blood Castle] (1) SetState EMPTY
+11:05:03 [Blood Castle] (2) Sync Start Time. [54] min remain
+11:05:03 [Blood Castle] (2) SetState EMPTY
+11:05:03 [Blood Castle] (3) Sync Start Time. [54] min remain
+11:05:03 [Blood Castle] (3) SetState EMPTY
+11:05:03 [Blood Castle] (4) Sync Start Time. [54] min remain
+11:05:03 [Blood Castle] (4) SetState EMPTY
+11:05:03 [Blood Castle] (5) Sync Start Time. [54] min remain
+11:05:03 [Blood Castle] (5) SetState EMPTY
+11:05:03 [Blood Castle] (6) Sync Start Time. [54] min remain
+11:05:03 [Blood Castle] (6) SetState EMPTY
+11:05:03 [Blood Castle] (7) Sync Start Time. [54] min remain
+11:05:03 [Blood Castle] (7) SetState EMPTY
+11:05:03 [Chaos Castle] (1) Sync Start Time. [114] min remain
+11:05:03 [Chaos Castle] (1) SetState EMPTY
+11:05:03 [Chaos Castle] (2) Sync Start Time. [114] min remain
+11:05:03 [Chaos Castle] (2) SetState EMPTY
+11:05:03 [Chaos Castle] (3) Sync Start Time. [114] min remain
+11:05:03 [Chaos Castle] (3) SetState EMPTY
+11:05:03 [Chaos Castle] (4) Sync Start Time. [114] min remain
+11:05:03 [Chaos Castle] (4) SetState EMPTY
+11:05:03 [Chaos Castle] (5) Sync Start Time. [114] min remain
+11:05:03 [Chaos Castle] (5) SetState EMPTY
+11:05:03 [Chaos Castle] (6) Sync Start Time. [114] min remain
+11:05:03 [Chaos Castle] (6) SetState EMPTY
+11:05:03 [Devil Square] (1) Sync Start Time. [84] min remain
+11:05:03 [Devil Square] (1) SetState EMPTY
+11:05:03 [Devil Square] (2) Sync Start Time. [84] min remain
+11:05:03 [Devil Square] (2) SetState EMPTY
+11:05:03 [Devil Square] (3) Sync Start Time. [84] min remain
+11:05:03 [Devil Square] (3) SetState EMPTY
+11:05:03 [Devil Square] (4) Sync Start Time. [84] min remain
+11:05:03 [Devil Square] (4) SetState EMPTY
+11:05:03 [Invasion Manager] (0) Sync Start Time. [59] min remain
+11:05:03 [Invasion Manager] (1) Sync Start Time. [69] min remain
+11:05:03 [Invasion Manager] (2) Sync Start Time. [79] min remain
+11:05:03 [Invasion Manager] (3) Sync Start Time. [104] min remain
+11:05:04 [Monster Move] Spawn Class [229] Map [7] MapY [17] MapX [25]
+11:10:27 [SocketManager] Server started at port [55900]
+11:10:27 [Blood Castle] (1) Sync Start Time. [49] min remain
+11:10:27 [Blood Castle] (1) SetState EMPTY
+11:10:27 [Blood Castle] (2) Sync Start Time. [49] min remain
+11:10:27 [Blood Castle] (2) SetState EMPTY
+11:10:27 [Blood Castle] (3) Sync Start Time. [49] min remain
+11:10:27 [Blood Castle] (3) SetState EMPTY
+11:10:27 [Blood Castle] (4) Sync Start Time. [49] min remain
+11:10:27 [Blood Castle] (4) SetState EMPTY
+11:10:27 [Blood Castle] (5) Sync Start Time. [49] min remain
+11:10:27 [Blood Castle] (5) SetState EMPTY
+11:10:27 [Blood Castle] (6) Sync Start Time. [49] min remain
+11:10:27 [Blood Castle] (6) SetState EMPTY
+11:10:27 [Blood Castle] (7) Sync Start Time. [49] min remain
+11:10:27 [Blood Castle] (7) SetState EMPTY
+11:10:27 [Chaos Castle] (1) Sync Start Time. [109] min remain
+11:10:27 [Chaos Castle] (1) SetState EMPTY
+11:10:27 [Chaos Castle] (2) Sync Start Time. [109] min remain
+11:10:27 [Chaos Castle] (2) SetState EMPTY
+11:10:27 [Chaos Castle] (3) Sync Start Time. [109] min remain
+11:10:27 [Chaos Castle] (3) SetState EMPTY
+11:10:27 [Chaos Castle] (4) Sync Start Time. [109] min remain
+11:10:27 [Chaos Castle] (4) SetState EMPTY
+11:10:27 [Chaos Castle] (5) Sync Start Time. [109] min remain
+11:10:27 [Chaos Castle] (5) SetState EMPTY
+11:10:27 [Chaos Castle] (6) Sync Start Time. [109] min remain
+11:10:27 [Chaos Castle] (6) SetState EMPTY
+11:10:27 [Devil Square] (1) Sync Start Time. [79] min remain
+11:10:27 [Devil Square] (1) SetState EMPTY
+11:10:27 [Devil Square] (2) Sync Start Time. [79] min remain
+11:10:27 [Devil Square] (2) SetState EMPTY
+11:10:27 [Devil Square] (3) Sync Start Time. [79] min remain
+11:10:27 [Devil Square] (3) SetState EMPTY
+11:10:27 [Devil Square] (4) Sync Start Time. [79] min remain
+11:10:27 [Devil Square] (4) SetState EMPTY
+11:10:27 [Invasion Manager] (0) Sync Start Time. [54] min remain
+11:10:27 [Invasion Manager] (1) Sync Start Time. [64] min remain
+11:10:27 [Invasion Manager] (2) Sync Start Time. [74] min remain
+11:10:27 [Invasion Manager] (3) Sync Start Time. [99] min remain
+11:10:28 [Monster Move] Spawn Class [229] Map [3] MapY [170] MapX [88]
+11:27:46 [SocketManager] Server started at port [55900]
+11:27:47 [Blood Castle] (1) Sync Start Time. [32] min remain
+11:27:47 [Blood Castle] (1) SetState EMPTY
+11:27:47 [Blood Castle] (2) Sync Start Time. [32] min remain
+11:27:47 [Blood Castle] (2) SetState EMPTY
+11:27:47 [Blood Castle] (3) Sync Start Time. [32] min remain
+11:27:47 [Blood Castle] (3) SetState EMPTY
+11:27:47 [Blood Castle] (4) Sync Start Time. [32] min remain
+11:27:47 [Blood Castle] (4) SetState EMPTY
+11:27:47 [Blood Castle] (5) Sync Start Time. [32] min remain
+11:27:47 [Blood Castle] (5) SetState EMPTY
+11:27:47 [Blood Castle] (6) Sync Start Time. [32] min remain
+11:27:47 [Blood Castle] (6) SetState EMPTY
+11:27:47 [Blood Castle] (7) Sync Start Time. [32] min remain
+11:27:47 [Blood Castle] (7) SetState EMPTY
+11:27:47 [Chaos Castle] (1) Sync Start Time. [92] min remain
+11:27:47 [Chaos Castle] (1) SetState EMPTY
+11:27:47 [Chaos Castle] (2) Sync Start Time. [92] min remain
+11:27:47 [Chaos Castle] (2) SetState EMPTY
+11:27:47 [Chaos Castle] (3) Sync Start Time. [92] min remain
+11:27:47 [Chaos Castle] (3) SetState EMPTY
+11:27:47 [Chaos Castle] (4) Sync Start Time. [92] min remain
+11:27:47 [Chaos Castle] (4) SetState EMPTY
+11:27:47 [Chaos Castle] (5) Sync Start Time. [92] min remain
+11:27:47 [Chaos Castle] (5) SetState EMPTY
+11:27:47 [Chaos Castle] (6) Sync Start Time. [92] min remain
+11:27:47 [Chaos Castle] (6) SetState EMPTY
+11:27:47 [Devil Square] (1) Sync Start Time. [62] min remain
+11:27:47 [Devil Square] (1) SetState EMPTY
+11:27:47 [Devil Square] (2) Sync Start Time. [62] min remain
+11:27:47 [Devil Square] (2) SetState EMPTY
+11:27:47 [Devil Square] (3) Sync Start Time. [62] min remain
+11:27:47 [Devil Square] (3) SetState EMPTY
+11:27:47 [Devil Square] (4) Sync Start Time. [62] min remain
+11:27:47 [Devil Square] (4) SetState EMPTY
+11:27:47 [Invasion Manager] (0) Sync Start Time. [37] min remain
+11:27:47 [Invasion Manager] (1) Sync Start Time. [47] min remain
+11:27:47 [Invasion Manager] (2) Sync Start Time. [57] min remain
+11:27:47 [Invasion Manager] (3) Sync Start Time. [82] min remain
+11:27:48 [Monster Move] Spawn Class [229] Map [7] MapY [17] MapX [25]
+18:21:32 [SocketManager] Server started at port [55900]
+18:21:33 [Blood Castle] (1) Sync Start Time. [98] min remain
+18:21:33 [Blood Castle] (1) SetState EMPTY
+18:21:33 [Blood Castle] (2) Sync Start Time. [98] min remain
+18:21:33 [Blood Castle] (2) SetState EMPTY
+18:21:33 [Blood Castle] (3) Sync Start Time. [98] min remain
+18:21:33 [Blood Castle] (3) SetState EMPTY
+18:21:33 [Blood Castle] (4) Sync Start Time. [98] min remain
+18:21:33 [Blood Castle] (4) SetState EMPTY
+18:21:33 [Blood Castle] (5) Sync Start Time. [98] min remain
+18:21:33 [Blood Castle] (5) SetState EMPTY
+18:21:33 [Blood Castle] (6) Sync Start Time. [98] min remain
+18:21:33 [Blood Castle] (6) SetState EMPTY
+18:21:33 [Blood Castle] (7) Sync Start Time. [98] min remain
+18:21:33 [Blood Castle] (7) SetState EMPTY
+18:21:33 [Chaos Castle] (1) Sync Start Time. [38] min remain
+18:21:33 [Chaos Castle] (1) SetState EMPTY
+18:21:33 [Chaos Castle] (2) Sync Start Time. [38] min remain
+18:21:33 [Chaos Castle] (2) SetState EMPTY
+18:21:33 [Chaos Castle] (3) Sync Start Time. [38] min remain
+18:21:33 [Chaos Castle] (3) SetState EMPTY
+18:21:33 [Chaos Castle] (4) Sync Start Time. [38] min remain
+18:21:33 [Chaos Castle] (4) SetState EMPTY
+18:21:33 [Chaos Castle] (5) Sync Start Time. [38] min remain
+18:21:33 [Chaos Castle] (5) SetState EMPTY
+18:21:33 [Chaos Castle] (6) Sync Start Time. [38] min remain
+18:21:33 [Chaos Castle] (6) SetState EMPTY
+18:21:33 [Devil Square] (1) Sync Start Time. [128] min remain
+18:21:33 [Devil Square] (1) SetState EMPTY
+18:21:33 [Devil Square] (2) Sync Start Time. [128] min remain
+18:21:33 [Devil Square] (2) SetState EMPTY
+18:21:33 [Devil Square] (3) Sync Start Time. [128] min remain
+18:21:33 [Devil Square] (3) SetState EMPTY
+18:21:33 [Devil Square] (4) Sync Start Time. [128] min remain
+18:21:33 [Devil Square] (4) SetState EMPTY
+18:21:33 [Invasion Manager] (0) Sync Start Time. [103] min remain
+18:21:33 [Invasion Manager] (1) Sync Start Time. [113] min remain
+18:21:33 [Invasion Manager] (2) Sync Start Time. [123] min remain
+18:21:33 [Invasion Manager] (3) Sync Start Time. [148] min remain
+18:21:34 [Monster Move] Spawn Class [229] Map [3] MapY [170] MapX [88]
+18:35:53 [SocketManager] Server started at port [55900]
+18:35:53 [Blood Castle] (1) Sync Start Time. [84] min remain
+18:35:53 [Blood Castle] (1) SetState EMPTY
+18:35:53 [Blood Castle] (2) Sync Start Time. [84] min remain
+18:35:53 [Blood Castle] (2) SetState EMPTY
+18:35:53 [Blood Castle] (3) Sync Start Time. [84] min remain
+18:35:53 [Blood Castle] (3) SetState EMPTY
+18:35:53 [Blood Castle] (4) Sync Start Time. [84] min remain
+18:35:53 [Blood Castle] (4) SetState EMPTY
+18:35:53 [Blood Castle] (5) Sync Start Time. [84] min remain
+18:35:53 [Blood Castle] (5) SetState EMPTY
+18:35:53 [Blood Castle] (6) Sync Start Time. [84] min remain
+18:35:53 [Blood Castle] (6) SetState EMPTY
+18:35:53 [Blood Castle] (7) Sync Start Time. [84] min remain
+18:35:53 [Blood Castle] (7) SetState EMPTY
+18:35:53 [Chaos Castle] (1) Sync Start Time. [24] min remain
+18:35:53 [Chaos Castle] (1) SetState EMPTY
+18:35:53 [Chaos Castle] (2) Sync Start Time. [24] min remain
+18:35:53 [Chaos Castle] (2) SetState EMPTY
+18:35:53 [Chaos Castle] (3) Sync Start Time. [24] min remain
+18:35:53 [Chaos Castle] (3) SetState EMPTY
+18:35:53 [Chaos Castle] (4) Sync Start Time. [24] min remain
+18:35:53 [Chaos Castle] (4) SetState EMPTY
+18:35:53 [Chaos Castle] (5) Sync Start Time. [24] min remain
+18:35:53 [Chaos Castle] (5) SetState EMPTY
+18:35:53 [Chaos Castle] (6) Sync Start Time. [24] min remain
+18:35:53 [Chaos Castle] (6) SetState EMPTY
+18:35:53 [Devil Square] (1) Sync Start Time. [114] min remain
+18:35:53 [Devil Square] (1) SetState EMPTY
+18:35:53 [Devil Square] (2) Sync Start Time. [114] min remain
+18:35:53 [Devil Square] (2) SetState EMPTY
+18:35:53 [Devil Square] (3) Sync Start Time. [114] min remain
+18:35:53 [Devil Square] (3) SetState EMPTY
+18:35:53 [Devil Square] (4) Sync Start Time. [114] min remain
+18:35:53 [Devil Square] (4) SetState EMPTY
+18:35:53 [Invasion Manager] (0) Sync Start Time. [89] min remain
+18:35:53 [Invasion Manager] (1) Sync Start Time. [99] min remain
+18:35:53 [Invasion Manager] (2) Sync Start Time. [109] min remain
+18:35:53 [Invasion Manager] (3) Sync Start Time. [134] min remain
+18:35:54 [Monster Move] Spawn Class [229] Map [0] MapY [137] MapX [87]
+18:46:50 [SocketManager] Server started at port [55900]
+18:46:50 [Blood Castle] (1) Sync Start Time. [73] min remain
+18:46:50 [Blood Castle] (1) SetState EMPTY
+18:46:50 [Blood Castle] (2) Sync Start Time. [73] min remain
+18:46:50 [Blood Castle] (2) SetState EMPTY
+18:46:50 [Blood Castle] (3) Sync Start Time. [73] min remain
+18:46:50 [Blood Castle] (3) SetState EMPTY
+18:46:50 [Blood Castle] (4) Sync Start Time. [73] min remain
+18:46:50 [Blood Castle] (4) SetState EMPTY
+18:46:50 [Blood Castle] (5) Sync Start Time. [73] min remain
+18:46:50 [Blood Castle] (5) SetState EMPTY
+18:46:50 [Blood Castle] (6) Sync Start Time. [73] min remain
+18:46:50 [Blood Castle] (6) SetState EMPTY
+18:46:50 [Blood Castle] (7) Sync Start Time. [73] min remain
+18:46:50 [Blood Castle] (7) SetState EMPTY
+18:46:50 [Chaos Castle] (1) Sync Start Time. [13] min remain
+18:46:50 [Chaos Castle] (1) SetState EMPTY
+18:46:50 [Chaos Castle] (2) Sync Start Time. [13] min remain
+18:46:50 [Chaos Castle] (2) SetState EMPTY
+18:46:50 [Chaos Castle] (3) Sync Start Time. [13] min remain
+18:46:50 [Chaos Castle] (3) SetState EMPTY
+18:46:50 [Chaos Castle] (4) Sync Start Time. [13] min remain
+18:46:50 [Chaos Castle] (4) SetState EMPTY
+18:46:50 [Chaos Castle] (5) Sync Start Time. [13] min remain
+18:46:50 [Chaos Castle] (5) SetState EMPTY
+18:46:50 [Chaos Castle] (6) Sync Start Time. [13] min remain
+18:46:50 [Chaos Castle] (6) SetState EMPTY
+18:46:50 [Devil Square] (1) Sync Start Time. [103] min remain
+18:46:50 [Devil Square] (1) SetState EMPTY
+18:46:50 [Devil Square] (2) Sync Start Time. [103] min remain
+18:46:50 [Devil Square] (2) SetState EMPTY
+18:46:50 [Devil Square] (3) Sync Start Time. [103] min remain
+18:46:50 [Devil Square] (3) SetState EMPTY
+18:46:50 [Devil Square] (4) Sync Start Time. [103] min remain
+18:46:50 [Devil Square] (4) SetState EMPTY
+18:46:50 [Invasion Manager] (0) Sync Start Time. [78] min remain
+18:46:50 [Invasion Manager] (1) Sync Start Time. [88] min remain
+18:46:50 [Invasion Manager] (2) Sync Start Time. [98] min remain
+18:46:50 [Invasion Manager] (3) Sync Start Time. [123] min remain
+18:46:51 [Monster Move] Spawn Class [229] Map [0] MapY [137] MapX [87]

@@ -1,0 +1,55 @@
+//############################################################
+//# -- SSEMU MUONLINE SERVER EMULATOR
+//# -- www.ssemu.com.ar
+//# -- www.facebook.com/ssemuemulator
+//# -- © 2022 SetecSoft Development
+//# ----------------------------------------------------------
+//# -- File is a part of SSeMU MuOnline Server files.
+//############################################################
+
+0
+// -------------------------------------------------------------------------------------
+// Index   CommonMinLevel   CommonMaxLevel   SpecialMinLevel   SpecialMaxLevel   Comment
+// -------------------------------------------------------------------------------------
+   0       15               80               10                60                //Blood Castle Level 1
+   1       81               130              61                110               //Blood Castle Level 2
+   2       131              180              111               160               //Blood Castle Level 3
+   3       181              230              161               210               //Blood Castle Level 4
+   4       231              280              211               260               //Blood Castle Level 5
+   5       281              330              261               310               //Blood Castle Level 6
+   6       331              400              311               400               //Blood Castle Level 7
+end
+
+1
+// -------------------------------------------------------------------------------------
+// Index   CommonMinLevel   CommonMaxLevel   SpecialMinLevel   SpecialMaxLevel   Comment
+// -------------------------------------------------------------------------------------
+   0       10               99               6                 66                //Devil Square 1
+   1       100              179              67                118               //Devil Square 2
+   2       180              249              119               166               //Devil Square 3
+   3       250              400              167               400               //Devil Square 4
+end
+
+2
+// -------------------------------------------------------------------------------------
+// Index   CommonMinLevel   CommonMaxLevel   SpecialMinLevel   SpecialMaxLevel   Comment
+// -------------------------------------------------------------------------------------
+   0       15               49               15                29                //Chaos Castle 1
+   1       50               119              30                99                //Chaos Castle 2
+   2       120              179              100               159               //Chaos Castle 3
+   3       180              239              160               219               //Chaos Castle 4
+   4       240              299              220               279               //Chaos Castle 5
+   5       300              400              280               400               //Chaos Castle 6
+end
+
+3
+// -------------------------------------------------------------------------------------
+// Index   CommonMinLevel   CommonMaxLevel   SpecialMinLevel   SpecialMaxLevel   Comment
+// -------------------------------------------------------------------------------------
+   0       40               400              20                400               //Kalima 1
+   1       131              400              111               400               //Kalima 2
+   2       181              400              161               400               //Kalima 3
+   3       231              400              211               400               //Kalima 4
+   4       281              400              261               400               //Kalima 5
+   5       331              400              311               400               //Kalima 6
+end
