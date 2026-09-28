@@ -26,14 +26,13 @@
 ---
 ### Histórico Oficial de Atualizações SSeMU (Base Original 99B)
 
-# -- SSEMU MUONLINE SERVER EMULATOR
-# -- www.ssemu.com
-# -- www.facebook.com/setecsoft
-# -- © 2021 SetecSoft Development
-# ----------------------------------------------------------
-# -- File is a part of SSeMU MuOnline Server files.
+## -- SSEMU MUONLINE SERVER EMULATOR
+## -- www.ssemu.com
+## -- www.facebook.com/setecsoft
+## -- © 2021 SetecSoft Development
+## -- File is a part of SSeMU MuOnline Server files.
 
-===
+---
 UPDATE 52 (2.1.7):
 * Se arreglo crash por sobrelectura. [ALL VERSIONS]
 * Se arreglo el problema del listado del CustomPick. [ALL VERSIONS]
