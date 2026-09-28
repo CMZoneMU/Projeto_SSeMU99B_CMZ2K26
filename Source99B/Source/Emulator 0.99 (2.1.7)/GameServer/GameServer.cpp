@@ -18,6 +18,15 @@
 #include "SocketManager.h"
 #include "SocketManagerUdp.h"
 #include "Util.h"
+#include <stdio.h>
+
+// Update SSeMU 92 2.4.9 -> 97K SSeMU Update 93 (2.1.8) - [Resolve __iob_func for lua52 in modern toolset]
+#if _MSC_VER >= 1900
+extern "C" FILE * __cdecl __iob_func(void)
+{
+	return __acrt_iob_func(0);
+}
+#endif
 
 HINSTANCE hInst;
 TCHAR szTitle[MAX_LOADSTRING];

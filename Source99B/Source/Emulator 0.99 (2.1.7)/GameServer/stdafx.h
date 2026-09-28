@@ -50,5 +50,7 @@
 #pragma comment(lib,"dbghelp.lib")
 #pragma comment(lib,"Psapi.lib")
 #pragma comment(lib,"..\\..\\..\\Util\\lua\\lua52.lib")
+// Update SSeMU 92 2.4.9 -> 97K SSeMU Update 93 (2.1.8) - [Add legacy stdio definitions for modern toolset]
+#pragma comment(lib,"legacy_stdio_definitions.lib")
 
 typedef unsigned __int64 QWORD;

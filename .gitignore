@@ -4,3 +4,23 @@
 *.suo
 *.userosscache
 *.sln.docstates
+
+# Intermediate compiler build artifacts
+*.obj
+*.tlog
+*.iobj
+*.ipdb
+*.idb
+*.ilk
+*.pch
+*.recipe
+*.Build.CppClean.log
+*.FileListAbsolute.txt
+*.lastbuildstate
+*.pdb
+
+# Intermediate folders in Source
+Source99B/Source/**/Release/
+Source99B/Source/**/Debug/
+Source99B/Source/**/Main/Release/
+Source99B/Source/**/GetMainInfo/Release/

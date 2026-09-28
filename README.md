@@ -1,3 +1,31 @@
+# Projeto SSeMU 99B CMZ2K26 - Base SSeMU 0.99B (2.1.7)
+## Créditos Source: SSeMU SetecSoft Development
+## Créditos MuServer e Cliente: SSeMU SetecSoft Development
+## CMZone: Organização, Correções e Atualizações
+
+---
+
+### Correções e Atualizações CMZone (2026)
+
+#### UPDATE CMZ 01 (27-09-2026) - Correção de Static Runtime Linking (/MT) e Build Visual Studio 2022
+* **Linkagem Estática do CRT (/MT) em Todos os Módulos:**
+  - Alterada a configuração de compilação de `/MD` (Runtime Library dinâmica) para `/MT` (Multi-Threaded estático) em todos os projetos `.vcxproj` (`ConnectServer`, `DataServer`, `Main`, `GetMainInfo` e `GameServer`).
+  - Binários gerados agora são 100% autossuficientes e eliminam a necessidade de DLLs externas do Visual C++ Redistributable como `msvcp100.dll` e `msvcr100.dll`.
+* **Compatibilidade com Toolsets Modernos (v143 / v145 - VS 2022):**
+  - Atualizados os toolsets do MSBuild para suportar compilação limpa no Visual Studio 2022.
+  - No GameServer, configurado `$(VC_ATLMFC_IncludePath)` para resolução nativa de dependências MFC/ATL (`atltime.h`).
+* **Correção de Compatibilidade LUA 5.2 / CRT Moderno:**
+  - Implementada compatibilidade de `__iob_func` e linkagem com `legacy_stdio_definitions.lib` para eliminar conflitos de símbolos não resolvidos do LUA.
+  - Corrigida a inicialização de gerador de números aleatórios (`std::mt19937`) em `GameServer/Util.cpp`.
+* **Correção de Recursos de Janela e RC:**
+  - Substituída a inclusão depreciada de `afxres.h` por `winres.h` em `Main.rc` e `GetMainInfo.rc`.
+* **Padronização de Conexão e Handshake do Cliente:**
+  - Corrigido o handshake entre `Client99B` e `ConnectServer`, alinhando a porta de conexão em `ServerInfo.sse` e `ConnectServer.ini` e eliminando o erro "You are disconnected from the server".
+  - Criado script facilitador `Gerar_ServerInfo.bat` em `GetMainInfo99B` para compilação e sincronização automática das configurações diretamente com o cliente.
+
+---
+### Histórico Oficial de Atualizações SSeMU (Base Original 99B)
+
 //################################################## ##########
 //# -- SSEMU MUONLINE SERVER EMULATOR
 //# -- www.ssemu.com
